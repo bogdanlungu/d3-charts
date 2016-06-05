@@ -1,0 +1,18 @@
+svg{
+  margin-top: 20px;
+  border: dotted 1px #ccc;
+}
+.chart rect {
+    fill: blue;
+}
+
+.chart text {
+    fill: white;
+    font: 10px sans-serif;
+    text-anchor: end;
+}
+
+.month{
+  fill: white;
+  float: left;
+}
