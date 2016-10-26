@@ -41,3 +41,7 @@ path:hover {
     fill: rgba(8, 81, 156, 0.2);
     cursor: pointer;
 }
+
+text:hover {
+    cursor: default;
+}
